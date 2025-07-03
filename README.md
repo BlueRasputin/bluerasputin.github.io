@@ -8,12 +8,13 @@ I am a Software Developer who is looking to build unique experiences and program
 
 
 # Feel free to reach out
-[My Resume](Josh B's LaunchCode Resume- 2025.pdf) | [My LinkedIn](www.linkedin.com/in/josh-e-barrett)
+[My Resume](./Josh B's LaunchCode Resume- 2025.pdf) | [My LinkedIn](www.linkedin.com/in/josh-e-barrett)
 
 
 ## My work 
 
 ### [Doctor Who Regenerator](https://dwregenerator.netlify.app)
 
-![dwregen](image_2025-07-03_134656447.png)
+![dwregen](image_2025-07-03_135234521.png)
+
 
