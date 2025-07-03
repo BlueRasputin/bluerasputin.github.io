@@ -8,7 +8,7 @@ I am a Software Developer who is looking to build unique experiences and program
 
 
 # Feel free to reach out
-[My Resume](./Josh B's LaunchCode Resume- 2025.pdf) | [My LinkedIn](www.linkedin.com/in/josh-e-barrett)
+[My Resume](./Josh B's LaunchCode Resume- 2025.pdf) | [My LinkedIn](https://www.linkedin.com/in/josh-e-barrett/)
 
 
 ## My work 
