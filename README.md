@@ -15,7 +15,7 @@ Skills:
 - SpringBoot
 - MySQL
 - Postman
-- Jeckyll
+- Jekyll
 - VSCode
 - IntelliJ
 
