@@ -8,16 +8,16 @@ I'm a Software Developer crafting unique experiences and programs, turning my te
 I enjoy photography, reading, and creating music. I'm building my Software Development career, one line and one page at a time.
 
 Skills:
-JavaScript
-Java
-React
-CSS
-SpringBoot
-MySQL
-Postman
-Jeckyll
-VSCode
-IntelliJ
+- JavaScript
+- Java
+- React
+- CSS
+- SpringBoot
+- MySQL
+- Postman
+- Jeckyll
+- VSCode
+- IntelliJ
 
 
 # Feel free to reach out
