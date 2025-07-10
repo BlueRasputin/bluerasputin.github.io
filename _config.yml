@@ -1,4 +1,4 @@
-title: devlopr
+title: Blue Rasputin
 subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
@@ -15,8 +15,8 @@ urls:
     url: /
   # - text: About
   #   url: /about
-  - text: Blog
-    url: /blog
+  #- text: Blog
+   # url: /blog
   - text: Gallery
     url: /gallery
   # - text: Shop
@@ -26,7 +26,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.jpeg
+author_logo: profile.JPEG
 author: Josh Barrett
 author_bio: I'm a Software Developer crafting unique experiences and programs, turning my tech passion into a thriving career. I enjoy photography, reading, and creating music. I'm building my Software Development career, one line and one page at a time.
 Skills:
@@ -44,7 +44,7 @@ author_email: "mail@sujaykundu.com"
 author_location: United States
 author_website_url: "https://sujaykundu.com"
 # typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
-hero_cover_img: cover.jpeg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: cover.JPEG # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
