@@ -21,13 +21,13 @@ author: Josh Barrett
 
 navbar-links:
   About Me: "aboutme"
-  My Projects: "projects"
-  My Resume: "resume"
+  Projects: "projects"
+  Resume: "resume"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  My GitHub: "https://github.com/BlueRasputin"
-  My LinkedIn: "https://www.linkedin.com/in/josh-e-barrett/"
+  GitHub: "https://github.com/BlueRasputin"
+  LinkedIn: "https://www.linkedin.com/in/josh-e-barrett/"
 
 ################
 # --- Logo --- #
