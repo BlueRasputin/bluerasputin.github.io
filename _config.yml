@@ -1,4 +1,4 @@
-title: Blue Rasputin
+title: BlueRasputin
 subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
@@ -29,7 +29,7 @@ urls:
 author_logo: profile.JPEG
 author: Josh Barrett
 author_bio: I'm a Software Developer crafting unique experiences and programs, turning my tech passion into a thriving career. I enjoy photography, reading, and creating music. I'm building my Software Development career, one line and one page at a time.
-Skills:
+#Skills:
   - JavaScript
   - Java
   - React
