@@ -29,17 +29,6 @@ urls:
 author_logo: profile.JPEG
 author: Josh Barrett
 author_bio: I'm a Software Developer crafting unique experiences and programs, turning my tech passion into a thriving career. I enjoy photography, reading, and creating music. I'm building my Software Development career, one line and one page at a time.
-#Skills:
-  - JavaScript
-  - Java
-  - React
-  - CSS
-  - SpringBoot
-  - MySQL
-  - Postman
-  - Jekyll
-  - VSCode
-  - IntelliJ
 author_email: "mail@sujaykundu.com"
 author_location: United States
 author_website_url: "https://sujaykundu.com"
