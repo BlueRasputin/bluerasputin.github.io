@@ -49,4 +49,4 @@ Built and maintained strong relationships with global financial clients
 - Post-Production
 - Audio Production/Editing
 
-[Download My Resume Here](./Josh B's LaunchCode Resume- 2025.pdf)
+[Download My Resume Here](./assets/downloadLinks/2025Resume.pdf)
