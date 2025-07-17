@@ -6,7 +6,7 @@ subtitle: My experience
 
 # Joshua Barrett
 
-### Full Stack developer with customer service experience, focusing on user-centric web and app solutions. Passionate about innovative, intuitive designs that exceed client’s needs. Skilled in evaluating requirements and delivering engaging user experiences through thoughtful and precise development and design.
+### Full Stack developer with customer service experience, focusing on user-centric web and app solutions. Passionate about innovative, intuitive designs that exceed clients’ needs. Skilled in evaluating requirements and delivering engaging user experiences through thoughtful and precise development and design.
 
 ## LANGUAGES | FRAMEWORKS | TOOLS
 
@@ -16,15 +16,15 @@ subtitle: My experience
 
 ### DW Regenerator — LaunchCode Front-End Project
 
-- Aggregates and organizes data on Doctor Who series and its various seasons
-- Designed a page cycling though biographical details for each Doctor and their respective actors
-- Developed a page fetching data from a dataset to display Doctor Who episodes and audio dramas
+- Aggregates and organizes data on the Doctor Who series and its various seasons
+- Designed a page cycling through biographical details for each Doctor and their respective actors
+- Developed a page that fetches data from a dataset to display Doctor Who episodes and audio dramas
 - Tech Stack: JavaScript, React, CSS
 
 ### Personal Banker — Commerce Bank
 
 April 2023 - February 2025
-Developed tailored financial solutions for clients needs
+Developed tailored financial solutions for clients' needs
 Managed and supported financial accounts for thousands of customers
 Built and maintained strong relationships with global financial clients
 
@@ -49,4 +49,4 @@ Built and maintained strong relationships with global financial clients
 - Post-Production
 - Audio Production/Editing
 
-[Download My Resume Here](./assets/downloadLinks/2025Resume.pdf)
+[Download My Resume Here](./Resume-2025.pdf)
